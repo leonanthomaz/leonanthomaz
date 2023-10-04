@@ -9,15 +9,15 @@
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -28,12 +28,11 @@
 
 
 ## Um pouco sobre mim...
-Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá.
+Olá! 
 
-Sempre fui apaixonado por tecnologia. Meu primeiro curso na área foi há 12 anos atrás, quando tive meu primeiro contato com HTML, mas foi a partir de 2019, que ingressei oficialmente nesta área quando dei início à minha graduação.
+Me chamo Leonan Thomaz e sou formado em Análise e Desenvolvimento de Sistemas pela universidade Estácio de Sá e atualmente estou cursando pós graduação em Engenharia de Software. 
 
-Hoje, busco aperfeiçoar meus conhecimentos, sempre me mantendo atualizado na área.
+Meu perfil profissional é de desenvolvimento fullstack Java/Javascript, do qual me dedico a me especializar cada vez nessas stacks. Possuo ótimos conhecimentos em Java SE, EE, JPA\Hibernate, framework Spring e testes unitários. Bons conhecimentos em Javascript (ECMA6), bem como o framework ReactJS. Experiência com implementação de projetos na linguagem Java e em bancos de dados com a linguagem SQL (SQL Server e Oracle Database). Versionamento GIT e Github. Noções em NodeJS e SO Linux (Ubuntu).
 
-Tenho profunda satisfação em ver meus projetos adaptados em diversos tipos de telas e dispositivos, progredindo a cada nova habilidade conquistada.
-
-Visite meu portfólio: https://leonanthomaz.vercel.app/
+Visite meu portfólio e conheça alguns dos meus projetos desenvolvidos e habilidades que possuo: 
+https://leonanthomaz.vercel.app/
