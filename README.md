@@ -2,7 +2,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leonanthomaz&show_icons=true&theme=radical)
 [![Línguas Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=leonanthomaz&layout=compact&theme=radical)](https://github.com/leonanthomaz/github-readme-stats)
-[![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=leonanthomaz&theme=react-dark)](https://github.com/leonanthomaz/github-readme-stats)
+[![](https://activity-graph.herokuapp.com/graph?username=leonanthomaz&theme=react-dark)](https://github.com/leonanthomaz/github-readme-stats)
 
 ## 🚀 Habilidades
 
@@ -32,8 +32,7 @@
 ## 📈 Conquistas
 ![Estatísticas de Streak](https://streak-stats.demolab.com?user=leonanthomaz&theme=dark&hide_border=true)
 ![Línguas](https://github-readme-stats.vercel.app/api/top-langs/?username=leonanthomaz&theme=dark&hide_border=true&langs_count=6)
-![Estatísticas do Wakatime](https://wakatime.com/badge/user/4b80ef43-6d56-49b1-a0b6-700764c50b77.svg)
+![](https://wakatime.com/badge/user/4b80ef43-6d56-49b1-a0b6-700764c50b77.svg)
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonanthomaz/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonanthomaz)
